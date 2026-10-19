@@ -1,2 +1,9 @@
 # ark-pzpi-24-5-popova-anastasiia
-Репозиторій студентки ХНУРЕ з дисципліни "Аналіз та рефракторінг коду"
+
+ПЗПІ-24-5
+
+Попова Анастасія
+
+Правила оформлення програмного коду (Code Conventions) мовою Lua
+
+Методи рефакторингу (Refactoring Methods): Move Method, Move Field, Hide Method
